@@ -108,7 +108,7 @@ The development of MKPico and the Selenium S keyboard was greatly influenced and
   
 - **YouTube Content Creators**: Channels such as [Joe Scotto](https://www.youtube.com/@joe_scotto) and [Ben Vallack](https://www.youtube.com/c/BenVallack) have offered detailed build guides, reviews, and deep dives into keyboard design that have been incredibly helpful during the development process.
 
-- **Online Keyboard Communities**: Platforms like [r/MechanicalKeyboards](https://www.reddit.com/r/MechanicalKeyboards/) on Reddit, and forums like [Geekhack](https://geekhack.org/), have provided a wealth of information and community support that was crucial in overcoming challenges during the project.
+- **Online Keyboard Communities**: Platforms like [r/ErgoMechKeyboards](https://www.reddit.com/r/ErgoMechKeyboards/) on Reddit, and forums like [Geekhack](https://geekhack.org/), have provided a wealth of information and community support that was crucial in overcoming challenges during the project.
 
 This project would not have been possible without the contributions of these communities, and we encourage anyone interested in custom keyboard development to explore these resources and get involved.
 
